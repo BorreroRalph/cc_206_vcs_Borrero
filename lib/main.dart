@@ -1,3 +1,7 @@
+//{Borrero}: {If there's a will there's a way}
+//{Dignomo}: {Time is gold}
+//{Tribunsay}: {Favorite quote}
+
 import 'package:flutter/material.dart';
 
 void main() {
