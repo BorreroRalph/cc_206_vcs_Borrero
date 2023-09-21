@@ -1,6 +1,6 @@
 //{Borrero}: {If there's a will there's a way}
 //{Dignomo}: {Time is gold}
-//{Tribunsay}: {Favorite quote}
+//{Tribunsay}: {You are enough, just as you are}
 
 import 'package:flutter/material.dart';
 
